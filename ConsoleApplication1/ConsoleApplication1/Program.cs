@@ -13,7 +13,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             x = 10;
-            y = 10;
+            y = 50;
         }
     }
 }
