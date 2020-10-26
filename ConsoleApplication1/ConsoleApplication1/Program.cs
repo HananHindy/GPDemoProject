@@ -13,8 +13,9 @@ namespace ConsoleApplication1
         public static int y { get; set; }
         static void Main(string[] args)
         {
-            x = 10;
+            x = 20;
             y = 30;
+            x = x + y;
         }
     }
 }
